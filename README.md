@@ -45,7 +45,7 @@ de hecho esto es pura programacion de wed baby es super loco del como se, mientr
 <input type="button" name="">
 <input type="submit" name="">
 <textarea>todo esto son pruebas mi amor </textarea>
-
+<img src="file:///C:/Users/User/Documents/pagina%20wed/IMG-20231207-WA0032.jpg">
 
 <audio src="te amo.ogg" controls> </audio>
 
